@@ -24,18 +24,4 @@
     <h1>1Fichier</h1>
     <a href="https://1fichier.com/?r7o92l1ra9yqo71x6o54">Link de descarga</a>
 
-    
-
-</body>
-</html>
-
-body {
-
-background-image: url(img/Fondo.jpg) ;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: cover;
-background-attachment: fixed;
-
-}
 
